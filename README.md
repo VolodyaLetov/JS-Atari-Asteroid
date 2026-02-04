@@ -61,6 +61,7 @@ cd JS-Atari-Asteroid
 
 Open index.html in your browser.
 
+P.S. decrease your volume before opening an index.html
 (No additional dependencies required.)
 
 🎯 Learning Goals
