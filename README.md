@@ -49,20 +49,8 @@ problem-solving through algorithmic thinking
 
 These are transferable skills valuable for both frontend and software development roles.
 
-⚙️ Installation & Running Locally
-
-Clone the repository:
-
-git clone git@github.com:VolodyaLetov/JS-Atari-Asteroid.git
-
-Navigate into the project folder:
-
-cd JS-Atari-Asteroid
-
-Open index.html in your browser.
-
-P.S. decrease your volume before opening an index.html
-(No additional dependencies required.)
+⚙️ Running the project:
+js-atari-asteroid.vercel.app
 
 🎯 Learning Goals
 
