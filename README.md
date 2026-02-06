@@ -72,4 +72,4 @@ Volodymyr (Vova)
 Frontend Developer in progress 🚀
 
 GitHub:
-👉 https://github.com/VolodyaLetov# JS-Atari-Asteroid
+👉 https://github.com/vtrehubenko/JS-Atari-Asteroid
